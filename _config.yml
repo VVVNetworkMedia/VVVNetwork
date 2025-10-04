@@ -1,0 +1,53 @@
+# ==============================
+#   VVV Network Media Journal
+#   GitHub Pages configuration
+# ==============================
+
+title: "VVV Network Media Journal"
+description: "Exploring innovation, design, and culture in the digital media era."
+author: "VVV Network Media Division"
+email: media@vvvnetwork.com
+url: "https://vvvnetworkmedia.github.io"
+baseurl: "/VVVNetwork"
+
+# Theme and layout
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Enable blog posts
+collections:
+  posts:
+    output: true
+    permalink: /:title/
+
+# Defaults for all markdown pages
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      author: "VVV Network Media Division"
+      disclaimer: "For informational and educational purposes only."
+
+# Social & meta (optional)
+social_links:
+  github: https://github.com/VVVNetworkMedia
+
+# Footer text (appears on all pages)
+footer:
+  text: "© 2025 VVV Network Media Division — Human-written editorial • Research & Education Only • No Gambling Services"
+
+# Permalink structure
+permalink: /:title/
+
+# Plugins (built-in to GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Language and encoding
+encoding: utf-8
+timezone: Europe/London
