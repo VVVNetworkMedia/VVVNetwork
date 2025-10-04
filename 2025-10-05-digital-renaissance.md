@@ -7,7 +7,17 @@ tags: ["innovation", "technology", "culture", "media", "future"]
 layout: default
 image: /assets/og/digital-renaissance.jpg
 image_alt: "Abstract image showing art and technology blending together"
+permalink: /2025-10-05-digital-renaissance/
+canonical_url: https://vvvnetworkmedia.github.io/VVVNetwork/2025-10-05-digital-renaissance/
 ---
+
+<!-- Soft social cards (safe, minimal). Render only if layout supports it. -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="The Digital Renaissance: How Innovation Is Rewriting Culture">
+<meta property="og:description" content="In an age defined by algorithms and creativity, a new digital renaissance is transforming how we create, connect, and find meaning.">
+<meta property="og:url" content="https://vvvnetworkmedia.github.io/VVVNetwork/2025-10-05-digital-renaissance/">
+<meta name="twitter:title" content="The Digital Renaissance: How Innovation Is Rewriting Culture">
+<meta name="twitter:description" content="In an age defined by algorithms and creativity, a new digital renaissance is transforming how we create, connect, and find meaning.">
 
 <!-- Minimal, safe-for-Google schema -->
 <script type="application/ld+json">
@@ -90,6 +100,11 @@ thoughtful, transparent, and globally relevant.
 
 Explore more human-centered tech stories at **VVV Network**:  
 👉 <https://vvvnetwork.com/?ref=github>
+
+---
+
+## 🔎 Related reading
+- Explore more essays on our site’s homepage: [/](./)
 
 ---
 
