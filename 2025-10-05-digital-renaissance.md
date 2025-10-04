@@ -9,6 +9,18 @@ image: /assets/og/digital-renaissance.jpg
 image_alt: "Abstract image showing art and technology blending together"
 ---
 
+<!-- Minimal, safe-for-Google schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "The Digital Renaissance: How Innovation Is Rewriting Culture",
+  "author": "David Stone",
+  "publisher": "VVV Network Media Division",
+  "datePublished": "2025-10-05"
+}
+</script>
+
 # 🌍 The Digital Renaissance: How Innovation Is Rewriting Culture
 
 When people talk about the *digital age*, they usually mean speed — faster devices, instant news, short attention spans.  
@@ -74,10 +86,10 @@ thoughtful, transparent, and globally relevant.
 
 ---
 
-## 🔗 Related Reading
+## 🔗 Learn More
 
-Explore more on the intersection of innovation, design, and culture:  
-👉 [VVV Network](https://vvvnetwork.com/?ref=github)
+Explore more human-centered tech stories at **VVV Network**:  
+👉 <https://vvvnetwork.com/?ref=github>
 
 ---
 
